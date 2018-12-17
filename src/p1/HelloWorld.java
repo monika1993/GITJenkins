@@ -6,9 +6,9 @@ public class HelloWorld {
 	{
 		System.out.println("Hello World!");
 
-		System.out.println("Monika!");
+		System.out.println("Monika Loves chole bhature!");
 
-	System.out.println("Hello World!");
+		System.out.println("Hello World!");
 
 	
 	}
